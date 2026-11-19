@@ -1,0 +1,6 @@
+{
+  "name": "Bijli Manager",
+  "description": "Electricity Consumer & Billing Manager for tracking meter readings, kWh consumption, dues, and 1,000+ consumer records with bilingual English/Hindi support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
