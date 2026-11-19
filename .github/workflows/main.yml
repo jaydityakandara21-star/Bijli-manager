@@ -1,5 +1,5 @@
 
-name: Build Bijli Manager APK
+name: Bijli Manager APK Build
 
 on:
   workflow_dispatch:
